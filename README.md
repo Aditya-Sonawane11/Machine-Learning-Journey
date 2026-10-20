@@ -5,3 +5,4 @@ This repository keeps track of my Machine Learning and the related mini-projects
 
 * Learned basic python and libraries like Pandas, Numpy, Matplotlib and Seaborn
 * EDA - Data Assessment, Data Analysis
+* Feature Engineering - Feature Scaling (in progress)
